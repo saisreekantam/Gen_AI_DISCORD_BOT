@@ -1,10 +1,6 @@
-# Night-owls
+# Discord_Bot_Using_Gemini
+## 1) Contributors: S.saivenkat
 
-## 1) Track - Discord Bot
-**Contributors:** 
-- Sreekantam Sai Venkat (IMT2023501)
-- Abhinav Kishan (IMT2023580)
-- Pammi Nanda Mitra (IMT2023583)
 
 ## 2) Problem Statement
 **Creating a Discord bot involves designing and implementing various features and functionalities to enhance the user experience within a Discord server.**
